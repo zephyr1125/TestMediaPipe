@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/MyTests/Scenes/FaceMesh.unity
+    guid: 5c18a795189582446a0a218c05ce0fa1
+  - enabled: 0
+    path: Assets/Scenes/TestCamera.unity
+    guid: 8db9d39b14c259f4c9ce64bf957f3201
+  - enabled: 0
+    path: Assets/MediaPipeUnity/Samples/Scenes/Face Mesh/Face Mesh.unity
+    guid: 95922b7629008a1e1a9e84a30d89bb1f
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/MediaPipeUnity/Samples/Scenes/Pose Tracking/Pose Tracking.unity
+    guid: a4964d5b8866fb3d8bd4c715728200c8
   m_configObjects: {}
